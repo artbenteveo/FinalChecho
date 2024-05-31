@@ -15,8 +15,7 @@ MonoBehaviour:
   sourceGameObject:
     exposedName: 4e5c0b5aca966d74f8c22853cfeb37e4
     defaultValue: {fileID: 0}
-  prefabGameObject: {fileID: 4798290924377682792, guid: f00ff35173d3fbf4fb47b9746bbd4147,
-    type: 3}
+  prefabGameObject: {fileID: 0}
   updateParticle: 1
   particleRandomSeed: 911
   updateDirector: 1
@@ -172,8 +171,7 @@ MonoBehaviour:
   sourceGameObject:
     exposedName: 6dabf99b6e94a15498e114d14194eeab
     defaultValue: {fileID: 0}
-  prefabGameObject: {fileID: 6387475405001479714, guid: bbce33259c783764cbd8f867529e128d,
-    type: 3}
+  prefabGameObject: {fileID: 0}
   updateParticle: 1
   particleRandomSeed: 1150
   updateDirector: 1
@@ -286,7 +284,7 @@ MonoBehaviour:
   m_Name: AnimationPlayableAsset
   m_EditorClassIdentifier: 
   m_Clip: {fileID: -203655887218126122, guid: 0c129cb908e564e4ba94678428e43201, type: 3}
-  m_Position: {x: 0, y: 0, z: 0}
+  m_Position: {x: -3.38, y: -1.45, z: -1.44}
   m_EulerAngles: {x: 0, y: 0, z: 0}
   m_UseTrackMatchFields: 1
   m_MatchTargetFields: 63
