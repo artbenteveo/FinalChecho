@@ -16,7 +16,7 @@ public class ZoomControl : MonoBehaviour
    Vector3 camDragBegin;
     Vector3 camDragNext;
 
-    // Start is called before the first frame update
+    
     void Start()
     {
         cameraPosition = Camera.main.transform.position;
@@ -26,7 +26,7 @@ public class ZoomControl : MonoBehaviour
         mouseOnWorld = new Vector3();
     }
 
-    // Update is called once per frame
+   
     void Update()
     {
          if(Input.GetAxis("Mouse ScrollWheel") != 0)
@@ -51,14 +51,14 @@ public class ZoomControl : MonoBehaviour
         }
 
          
-         //start Pan or move objects at mouse position
+  
       
          if (Input.GetMouseButtonDown(2))
         {
             camDragBegin = Input.mousePosition;
             camPos1 = Camera.main.transform.position;
         }
-      // Pan or move objects at mouse position
+
       
         if (Input.GetMouseButton(2))
         {
@@ -75,7 +75,7 @@ public class ZoomControl : MonoBehaviour
         }
     }
 
-    // convert screen coordinate to world coordinate
+
     Vector2 ScaleScreenToWorldSize(float camAspect,float camSize,float camScreenPixelWidth,float camScreenPixelHeight,float screenW,float screenH)
     {
         float cameraWidth = camAspect * camSize * 2f;
