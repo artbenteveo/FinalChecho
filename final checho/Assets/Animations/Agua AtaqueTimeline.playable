@@ -179,9 +179,9 @@ MonoBehaviour:
   m_Clips:
   - m_Version: 1
     m_Start: 0
-    m_ClipIn: 0
+    m_ClipIn: 0.033333333333334325
     m_Asset: {fileID: 5936316742285681661}
-    m_Duration: 7
+    m_Duration: 6.966666666666667
     m_TimeScale: 1
     m_ParentTrack: {fileID: 1117615558599897725}
     m_EaseInDuration: 0
@@ -260,7 +260,7 @@ MonoBehaviour:
   m_Position: {x: 0, y: 0, z: 0}
   m_EulerAngles: {x: 0, y: 0, z: 0}
   m_AvatarMask: {fileID: 0}
-  m_ApplyAvatarMask: 1
+  m_ApplyAvatarMask: 0
   m_TrackOffset: 0
   m_InfiniteClip: {fileID: 0}
   m_OpenClipOffsetRotation: {x: 0, y: 0, z: 0, w: 1}
@@ -278,7 +278,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 030f85c3f73729f4f976f66ffb23b875, type: 3}
   m_Name: AnimationPlayableAsset
   m_EditorClassIdentifier: 
-  m_Clip: {fileID: -203655887218126122, guid: ec11a5ec41bda62468586c9247b3c3a5, type: 3}
+  m_Clip: {fileID: -203655887218126122, guid: 53354720a4d22514dbb0e275562e7c03, type: 3}
   m_Position: {x: 0, y: 0, z: -5.81}
   m_EulerAngles: {x: 0, y: 0, z: 0}
   m_UseTrackMatchFields: 1
