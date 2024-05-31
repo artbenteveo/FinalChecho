@@ -7,6 +7,8 @@ Link ITCH:
 https://artbenteveo.itch.io/ninja-simulator-2025-final-de-computacin-grfica
 (El itch cargó mal algunos efectos, por favor revisar ejecutable) :) (Link en la descripción)
 
+Video Demo (mirar x favor :)) https://youtu.be/FdIO1PqFqkA
+
 Concept art:
 
 Bomba de Agua
