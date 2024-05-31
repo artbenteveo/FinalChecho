@@ -2,8 +2,10 @@ NINJA SIMULATOR 2025
 
 Final Checho
 
-Link ITCH: https://artbenteveo.itch.io/ninja-simulator-2025-final-de-computacin-grfica
-(El itch cargó mal algunos efectos, por favor revisar ejecutable) :)
+Link ITCH:
+
+https://artbenteveo.itch.io/ninja-simulator-2025-final-de-computacin-grfica
+(El itch cargó mal algunos efectos, por favor revisar ejecutable) :) (Link en la descripción)
 
 Concept art:
 
