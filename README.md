@@ -27,3 +27,9 @@ P.D En el ejecutable no se alcanza a ver una parte del ataque, precisamente el h
 
 ![Screenshot 2024-05-30 221033](https://github.com/artbenteveo/FinalChecho/assets/82242799/f83d2de2-e66f-4a09-a7e1-d9b9fd5653c3)
 
+
+X
+![conceptfinal1](https://github.com/artbenteveo/FinalChecho/assets/93880973/da0d304b-319f-410b-8b58-c86ea64946c4)
+
+![concept final 2](https://github.com/artbenteveo/FinalChecho/assets/93880973/a079ef6f-96cb-4976-9a8b-6c33070b6072)
+
